@@ -1,0 +1,19 @@
+.body {
+    background-color: #f7f0bc;
+    color: black;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.aboutName {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.content {
+    margin-left: 10px;
+}

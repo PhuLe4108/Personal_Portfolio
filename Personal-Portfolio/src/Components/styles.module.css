@@ -1,0 +1,80 @@
+.title {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.navigation {
+    display: flex;
+    justify-content: right;
+    font-size: 20px;
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+}
+
+.navItem {
+    margin-right: 30px;
+    border-bottom: 1px solid white;
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+    margin: 20px;
+    margin-top: 100px ;
+    color: white
+}
+
+.aboutLeftPicture {
+    margin-left: -50px;
+    margin-right: 50px;
+}
+
+.aboutRightPicture {
+    display: flex;
+    justify-content: right;
+    margin-left: -50px;
+    margin-right: 50px;
+}
+
+.skillsPicture {
+    display: flex;
+    justify-content: center;
+    margin-left: -50px;
+    margin-right: 50px;
+    margin-top: 350px;
+}
+
+.contactInfoPicture {
+    display: flex;
+    justify-content: center;
+    margin-left: -50px;
+    margin-right: 50px;
+    margin-top: 300px;
+}
+
+.scaleImage {
+    width: 70%;
+    height: auto;
+}
+
+.separatorBox {
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+.separatorTitle {
+    display: flex;
+    justify-content: center;
+    text-wrap: nowrap;
+    color: gold;
+    font-size: 30px;
+    margin-bottom: 468px;
+    /*border: 1px red solid;*/
+}
+
